@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df9404a14ae56c74e980160376838094, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  _force: 17
+  _lifeTime: 1
+  _cooldown: 1.5
+  _destroyOnHit: 1
+  _prefab: {fileID: 6225683319303483150, guid: d581b5459aaa48d4c9ac91119119119d, type: 3}
+  _damage: 10
+  _effectLifeTime: 1
+  _onHitEffect: {fileID: 26972203185702494, guid: 95c75a010c26dfa4bb5e890496322153, type: 3}

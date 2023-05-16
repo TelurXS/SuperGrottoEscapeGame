@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e71c7fa9392d4f4db4f6521b710f0c7, type: 3}
+  m_Name: Bite
+  m_EditorClassIdentifier: 
+  _damage: 20
+  _lifeTime: 0.5
+  _cooldown: 1
+  _hitbox: {fileID: 2536213831316816359, guid: 973858c6d605f8142af17f364873352a, type: 3}
+  _throwForce: 20
