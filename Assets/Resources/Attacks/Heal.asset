@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51fbabddb29ba6949aa20ee97c250c9d, type: 3}
   m_Name: Heal
   m_EditorClassIdentifier: 
-  value: 30
+  value: 50
   cooldown: 4
   effect: {fileID: 3055773979964806291, guid: 5e2f466650cc5b447afd593ed5d8563b, type: 3}
   effectLifetime: 1

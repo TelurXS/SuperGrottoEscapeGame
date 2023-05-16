@@ -19,7 +19,7 @@ MonoBehaviour:
   _prefab: {fileID: 6225683319303483150, guid: d581b5459aaa48d4c9ac91119119119d, type: 3}
   _damage: 10
   _effectLifeTime: 1
-  _onHitEffect: {fileID: 4926560683826304816, guid: a8c1314f21a63aa48928b99eb04f3061, type: 3}
+  _onHitEffect: {fileID: 26972203185702494, guid: 95c75a010c26dfa4bb5e890496322153, type: 3}
   _timings:
   - 0.1
   - 0.5
